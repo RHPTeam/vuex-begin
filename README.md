@@ -1,4 +1,4 @@
-# vuejs-complete
+# How to begin Vuex with Scale SPAs
 
 > A Vue.js project
 
